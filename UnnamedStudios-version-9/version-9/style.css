@@ -853,17 +853,3 @@ header.sticky{
 .start-shopping-btn:hover {
     background-color: #45a049;
 }
-
-/* adding-product-to-cart */
-#cart-items {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 60vh; 
-}
-  
-#cart-items > div {
-    text-align: center;
-    margin-bottom: 20px; 
-}
